@@ -15,7 +15,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
 public class Creating_Org_with_website {
-
 	public static void main(String[] args) throws InterruptedException, IOException {
 		
 		FileInputStream fis = new FileInputStream("F:\\java\\vtiger-crm-framework-A11\\src\\test\\resources\\commondata.properties");

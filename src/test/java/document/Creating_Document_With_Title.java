@@ -16,7 +16,6 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 
 public class Creating_Document_With_Title {
-
 	public static void main(String[] args) throws InterruptedException, IOException {
 		FileInputStream fis = new FileInputStream("F:\\java\\vtiger-crm-framework-A11\\src\\test\\resources\\commondata.properties");
 

@@ -10,7 +10,6 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class FileUtility {
-
 	public String getDataFromPropertiesFile(String key) throws IOException{
 		FileInputStream fis = new FileInputStream("F:\\java\\vtiger-crm-framework-A11\\src\\test\\resources\\commondata.properties");
 

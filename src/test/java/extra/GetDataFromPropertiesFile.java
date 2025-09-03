@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class GetDataFromPropertiesFile {
-
 	public static void main(String[] args) throws IOException {
 //		Step 1 :- Getting the java representation object of the physical file
 		FileInputStream fis = new FileInputStream("F:\\java\\vtiger-crm-framework-A11\\src\\test\\resources\\commondata.properties");
